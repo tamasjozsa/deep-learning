@@ -1,0 +1,6 @@
+__pycache__
+checkpoint
+cifar-10-batches.tar.gz
+cifar-10-batches
+preprocess*
+image_cassification*
