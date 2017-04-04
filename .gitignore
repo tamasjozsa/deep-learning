@@ -4,3 +4,11 @@ cifar-10-batches.tar.gz
 cifar-10-batches
 preprocess*
 image_cassification*
+
+.DS_Store
+
+# Ignore downloaded datasets
+embeddings/data/
+embeddings/text8.zip
+
+.ipynb_checkpoints/
